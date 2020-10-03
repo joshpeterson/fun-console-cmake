@@ -1,0 +1,3 @@
+[submodule "external/fun-console"]
+	path = external/fun-console
+	url = https://github.com/joshpeterson/fun-console.git
